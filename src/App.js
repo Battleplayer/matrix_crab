@@ -1,9 +1,8 @@
-import './App.css';
-import Table from "./Table";
+import TablePage from "./TablePage";
 
 function App() {
   return (
-    <Table />
+    <TablePage />
   );
 }
 
