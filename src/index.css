@@ -7,19 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-  monospace;
-}
-
-.body {
-  width: 1200px;
-  margin: 40px
-}
-
 .body-inner {
   display: flex;
   flex-direction: column;
+  margin-bottom: 20px;
 }
 
 .data-input {
@@ -52,7 +43,7 @@ th, td {
   display: block;
 }
 
-.bcg{
+.bcg {
   position: relative;
 }
 
