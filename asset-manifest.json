@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Battleplayer/matrix_crab/static/css/main.f3eca4dd.chunk.css",
-    "main.js": "/Battleplayer/matrix_crab/static/js/main.e9079ee2.chunk.js",
-    "main.js.map": "/Battleplayer/matrix_crab/static/js/main.e9079ee2.chunk.js.map",
+    "main.css": "/Battleplayer/matrix_crab/static/css/main.326916dc.chunk.css",
+    "main.js": "/Battleplayer/matrix_crab/static/js/main.a3b349b0.chunk.js",
+    "main.js.map": "/Battleplayer/matrix_crab/static/js/main.a3b349b0.chunk.js.map",
     "runtime-main.js": "/Battleplayer/matrix_crab/static/js/runtime-main.108f84e4.js",
     "runtime-main.js.map": "/Battleplayer/matrix_crab/static/js/runtime-main.108f84e4.js.map",
     "static/css/2.818011ed.chunk.css": "/Battleplayer/matrix_crab/static/css/2.818011ed.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.a2df9354.chunk.js.map": "/Battleplayer/matrix_crab/static/js/2.a2df9354.chunk.js.map",
     "index.html": "/Battleplayer/matrix_crab/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Battleplayer/matrix_crab/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.f3eca4dd.chunk.css.map": "/Battleplayer/matrix_crab/static/css/main.f3eca4dd.chunk.css.map",
+    "static/css/main.326916dc.chunk.css.map": "/Battleplayer/matrix_crab/static/css/main.326916dc.chunk.css.map",
     "static/js/2.a2df9354.chunk.js.LICENSE.txt": "/Battleplayer/matrix_crab/static/js/2.a2df9354.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.108f84e4.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.a2df9354.chunk.js",
-    "static/css/main.f3eca4dd.chunk.css",
-    "static/js/main.e9079ee2.chunk.js"
+    "static/css/main.326916dc.chunk.css",
+    "static/js/main.a3b349b0.chunk.js"
   ]
 }
