@@ -118,9 +118,7 @@ const TablePage = () => {
       const defaultArr = matrix.slice();
       const newObj = JSON.parse(JSON.stringify(nextObj));
       const removedArr = defaultArr.splice(index, 1)[0];
-
       removedArr.forEach((el) => delete newObj[el]);
-
       setNextObj(newObj);
       setMatrix(defaultArr);
     },
@@ -156,6 +154,7 @@ const TablePage = () => {
                     </th>
                   ))}
                   <th key="total">total</th>
+                  <th key="empty-th" />
                 </tr>
               </thead>
               <tbody>
@@ -169,10 +168,14 @@ const TablePage = () => {
                         className={`bcg ${searchedArr.includes(el) ? 'active' : ''}`}
                         key={el}
                       >
-                        {isTotalEnter && activeIndex === index ? percentArr[index][i] : nextObj[el]}
+                        {isTotalEnter && activeIndex === index ? (
+                          <b>{percentArr[index][i]}%</b>
+                        ) : (
+                          <span>{nextObj[el]}</span>
+                        )}
 
                         {isTotalEnter && activeIndex === index && (
-                          <span className="bcg-active" style={{ width: `${percentArr[index][i]}%` }} />
+                          <span className="bcg-active" style={{ height: `${percentArr[index][i]}%` }} />
                         )}
                       </td>
                     ))}
@@ -184,7 +187,7 @@ const TablePage = () => {
                     >
                       <b>{totalInRow[index]}</b>
                     </td>
-                    <td key={Math.random()} style={{ width: 0 }}>
+                    <td key={Math.random()} className="remove-td">
                       <Button variant="danger" size={'sm'} onClick={() => removeRow(index)}>
                         -
                       </Button>
@@ -198,6 +201,7 @@ const TablePage = () => {
                     </td>
                   ))}
                   <td key="last">-</td>
+                  <td key="empty-td" />
                 </tr>
               </tbody>
             </Table>
