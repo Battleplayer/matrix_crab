@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Battleplayer/matrix_crab/static/css/main.326916dc.chunk.css",
-    "main.js": "/Battleplayer/matrix_crab/static/js/main.a3b349b0.chunk.js",
-    "main.js.map": "/Battleplayer/matrix_crab/static/js/main.a3b349b0.chunk.js.map",
-    "runtime-main.js": "/Battleplayer/matrix_crab/static/js/runtime-main.108f84e4.js",
-    "runtime-main.js.map": "/Battleplayer/matrix_crab/static/js/runtime-main.108f84e4.js.map",
-    "static/css/2.818011ed.chunk.css": "/Battleplayer/matrix_crab/static/css/2.818011ed.chunk.css",
-    "static/js/2.a2df9354.chunk.js": "/Battleplayer/matrix_crab/static/js/2.a2df9354.chunk.js",
-    "static/js/2.a2df9354.chunk.js.map": "/Battleplayer/matrix_crab/static/js/2.a2df9354.chunk.js.map",
-    "index.html": "/Battleplayer/matrix_crab/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/Battleplayer/matrix_crab/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.326916dc.chunk.css.map": "/Battleplayer/matrix_crab/static/css/main.326916dc.chunk.css.map",
-    "static/js/2.a2df9354.chunk.js.LICENSE.txt": "/Battleplayer/matrix_crab/static/js/2.a2df9354.chunk.js.LICENSE.txt"
+    "main.css": "/matrix_crab/static/css/main.326916dc.chunk.css",
+    "main.js": "/matrix_crab/static/js/main.a3b349b0.chunk.js",
+    "main.js.map": "/matrix_crab/static/js/main.a3b349b0.chunk.js.map",
+    "runtime-main.js": "/matrix_crab/static/js/runtime-main.6beba9bb.js",
+    "runtime-main.js.map": "/matrix_crab/static/js/runtime-main.6beba9bb.js.map",
+    "static/css/2.818011ed.chunk.css": "/matrix_crab/static/css/2.818011ed.chunk.css",
+    "static/js/2.a2df9354.chunk.js": "/matrix_crab/static/js/2.a2df9354.chunk.js",
+    "static/js/2.a2df9354.chunk.js.map": "/matrix_crab/static/js/2.a2df9354.chunk.js.map",
+    "index.html": "/matrix_crab/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/matrix_crab/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.326916dc.chunk.css.map": "/matrix_crab/static/css/main.326916dc.chunk.css.map",
+    "static/js/2.a2df9354.chunk.js.LICENSE.txt": "/matrix_crab/static/js/2.a2df9354.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.108f84e4.js",
+    "static/js/runtime-main.6beba9bb.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.a2df9354.chunk.js",
     "static/css/main.326916dc.chunk.css",
